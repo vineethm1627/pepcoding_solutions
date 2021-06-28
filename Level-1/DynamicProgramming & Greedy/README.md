@@ -27,3 +27,4 @@ SNo | Name | Logic Used | Link |
 23 | Partitiion into Subsets | 2D DP: extension + grouping | [view](partition_into_subsets.cpp)
 24 | B & S: Only one transaction | buy on min, sell on max possible | [view](buy_sell_stock_one_transaction.cpp)
 25 | B & S: Infinite transactions | buy and sell on every up-ward streaks | [view](buy_sell_stock_inf_transactions.cpp)
+26 | B & S: Infinite transactions with fee | bsp, ssp | [view](buy_sell_stock_transaction_fee.cpp)
