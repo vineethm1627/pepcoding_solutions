@@ -15,3 +15,4 @@ SNo | Name | Logic Used | Link |
 11 | Unbounded Knapsack | 1D DP, try all the items | [view](unbounded_knapsack.cpp)
 12 | Fractional Knapsack | sort val/weight descending | [view](fractional_knapsack.cpp)
 13 | Count binary strings | include/exclude DP | [view](count_binary_strings.cpp)
+14 | Arrange Buildings | include/exclude DP; 2 lanes multiplication | [view](arrange_buildings.cpp)
