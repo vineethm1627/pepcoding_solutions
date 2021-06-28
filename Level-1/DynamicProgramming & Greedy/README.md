@@ -11,3 +11,4 @@ SNo | Name | Logic Used | Link |
 7 | Target Sum Subsets | 2D bool DP, array upto i can sum upto j | [view](target_sum_subsets.cpp)
 8 | Coin Change Combinations | 1D DP of amount, take effect of each coin iteratively | [view](coin_change_combinations.cpp)
 9 | Coin Change Permutations | source to destination sum of ways | [view](coin_change_permutations.cpp)
+10 | 0-1 Knapsack | 2D DP, similar to target sum subsets | [view](zeroOne_knapsack.cpp)
