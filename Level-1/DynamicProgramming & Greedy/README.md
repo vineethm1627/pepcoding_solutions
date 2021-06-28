@@ -20,3 +20,4 @@ SNo | Name | Logic Used | Link |
 16 | Max sum non-adjacent elements | include/exclude DP | [view](max_sum_non_adjacent.cpp)
 17 | Paint house | include/exclude DP; 3 variables for colors | [view](paint_house.cpp)
 18 | Paint house with many colors | include/exclude DP; min of prev color values | [view](paint_house_many_colors.cpp)
+19 | Paint fence | last 2 fences same, diff + permutations | [view](paint_fence.cpp)
