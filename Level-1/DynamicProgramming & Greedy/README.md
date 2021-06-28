@@ -13,3 +13,4 @@ SNo | Name | Logic Used | Link |
 9 | Coin Change Permutations | source to destination sum of ways | [view](coin_change_permutations.cpp)
 10 | 0-1 Knapsack | 2D DP, similar to target sum subsets | [view](zeroOne_knapsack.cpp)
 11 | Unbounded Knapsack | 1D DP, try all the items | [view](unbounded_knapsack.cpp)
+12 | Fractional Knapsack | sort val/weight descending | [view](fractional_knapsack.cpp)
