@@ -19,3 +19,4 @@ SNo | Name | Logic Used | Link |
 15 | Count A+B+C+ Subsequences | include/exclude DP; 3 variables | [view](count_abc_subsequences.cpp)
 16 | Max sum non-adjacent elements | include/exclude DP | [view](max_sum_non_adjacent.cpp)
 17 | Paint house | include/exclude DP; 3 variables for colors | [view](paint_house.cpp)
+18 | Paint house with many colors | include/exclude DP; min of prev color values | [view](paint_house_many_colors.cpp)
