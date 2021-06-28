@@ -21,3 +21,4 @@ SNo | Name | Logic Used | Link |
 17 | Paint house | include/exclude DP; 3 variables for colors | [view](paint_house.cpp)
 18 | Paint house with many colors | include/exclude DP; min of prev color values | [view](paint_house_many_colors.cpp)
 19 | Paint fence | last 2 fences same, diff + permutations | [view](paint_fence.cpp)
+20 | Tiling with 2x1 tiles | memoization | [view](tiling_2x1.cpp)
