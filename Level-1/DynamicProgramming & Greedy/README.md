@@ -31,3 +31,4 @@ SNo | Name | Logic Used | Link |
 27 | B & S: Infinite transactions with cooldown | bsp, ssp, csp | [view](buy_sell_stock_cooldown.cpp)
 28 | B & S: Atmost 2 transactions | bsbs: fix s l to r; fix b r to l | [view](buy_sell_stock_two_transactions.cpp)
 29 | B & S: Atmost k transactions | 2D DP {transactions x days} | [view](buy_sell_stock_k_transactions.cpp)
+30 | Count Encodings | last 1 & 2 chars | [view](count_encodings.cpp)
