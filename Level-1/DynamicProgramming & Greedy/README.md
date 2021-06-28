@@ -8,3 +8,4 @@ SNo | Name | Logic Used | Link |
 4 | Climb stairs with min. moves | min value of s to d via intermediate moves | [view](climb_stairs_min_moves.cpp)
 5 | Min cost Maze Traversal | 2D DP, min cost to reach destination from current cell | [view](min_cost_maze_traversal.cpp)
 6 | Goldmine | 2D DP, max value to reach destination from current cell | [view](goldmine.cpp) 
+7 | Target Sum Subsets | 2D bool DP, array upto i can sum upto j | [view](target_sum_subsets.cpp)
