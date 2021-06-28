@@ -29,3 +29,4 @@ SNo | Name | Logic Used | Link |
 25 | B & S: Infinite transactions | buy and sell on every up-ward streaks | [view](buy_sell_stock_inf_transactions.cpp)
 26 | B & S: Infinite transactions with fee | bsp, ssp | [view](buy_sell_stock_transaction_fee.cpp)
 27 | B & S: Infinite transactions with cooldown | bsp, ssp, csp | [view](buy_sell_stock_cooldown.cpp)
+28 | B & S: Atmost 2 transactions | bsbs: fix s l to r; fix b r to l | [view](buy_sell_stock_two_transactions.cpp)
